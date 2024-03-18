@@ -1,4 +1,4 @@
-## Tugas Pengelokahan Citra Pertemuan2 ##
+## Tugas Pengelolahan Citra Pertemuan2 ##
 
 Nama   :  Garnish Andhika Pratama
 
